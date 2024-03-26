@@ -1,4 +1,4 @@
-# Electron-TypeScript-React-NeDB Scaffold
+# Electron-TypeScript-React-NeDB
 
 ## About
 This app is a work-in-progress scaffold for an Electron app in TypeScript, integrating React and NeDB.
